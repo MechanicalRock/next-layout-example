@@ -1,0 +1,14 @@
+[
+	{
+		"id": "gloomhaven",
+		"name": "Gloomhaven",
+		"avgRating": 8.69,
+		"description": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!"
+	},
+	{
+		"id": "brass-birmingham",
+		"name": "Brass: Birmingham",
+		"avgRating": 8.66,
+		"description": "Build networks, grow industries, and navigate the world of the Industrial Revolution."
+	}
+]
